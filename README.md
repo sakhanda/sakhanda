@@ -17,15 +17,15 @@
 
 ## 🌟 About Me
 
-I'm a **hands-on CTO** who still writes code while leading teams of 20+ engineers. Currently building the future of Web3 at [TechCatalyst Ventures](https://techcatalyst.xyz), where we're pioneering **AI-native blockchain development**.
+I'm a **hands-on CTO** who still writes code while leading teams of 20+ engineers. Currently building the future of Web3 at [Holiverse Fze LLC](https://holiverse.ai), where we're pioneering **AI-native blockchain development**.
 
 ```python
-class IvanBorisov:
+class VolodymyrSakhanda:
     def __init__(self):
         self.role = "Chief Technology Officer"
-        self.company = "TechCatalyst Ventures"
-        self.location = "Limassol, Cyprus 🇨🇾"
-        self.experience_years = 12
+        self.company = "Holiverse Fze LLC"
+        self.location = "Sofia, Bulgaria"
+        self.experience_years = 15++
         self.code_daily = True
         
     def current_focus(self):
