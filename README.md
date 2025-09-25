@@ -116,12 +116,6 @@ class VolodymyrSakhanda:
 
 </div>
 
-## 💡 Philosophy
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20CTOs%20write%20code%2C%20not%20just%20emails.%20I%20maintain%20technical%20credibility%20by%20building%20alongside%20my%20team.&author=Volodymyr%20Sakhanda" />
-</div>
-
 ## 🤝 Let's Build Together
 
 <div align="center">
