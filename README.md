@@ -119,7 +119,7 @@ class VolodymyrSakhanda:
 
 ```mermaid
 graph LR
-    A[12+ Years Experience] --> B[$2B+ TVL Secured]
+    A[15+ Years Experience] --> B[$2B+ TVL Secured]
     B --> C[100K+ TPS Systems]
     C --> D[50+ DeFi Audits]
     D --> E[Zero Security Incidents]
