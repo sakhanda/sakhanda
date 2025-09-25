@@ -110,37 +110,6 @@ class VolodymyrSakhanda:
 
 <div align="center">
 
-## 🚀 Current Initiatives
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI x Web3 Research
-Building next-gen infrastructure combining LLMs with blockchain:
-- **Smart Contract Co-Pilot**: AI assistant for Solidity developers
-- **Automated Security Scanner**: GPT-4 powered vulnerability detection
-- **DeFi Strategy Optimizer**: ML-driven yield optimization
-
-</td>
-<td width="50%">
-
-### 🏗️ Open Source Projects
-<a href="https://github.com/PillarDevelopment/defi-protocol-suite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PillarDevelopment&repo=defi-protocol-suite&theme=radical" />
-</a>
-<a href="https://github.com/PillarDevelopment/ai-auditor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PillarDevelopment&repo=ai-auditor&theme=radical" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 ## 📈 GitHub Analytics
 
 ### 🏆 Achievements Unlocked
