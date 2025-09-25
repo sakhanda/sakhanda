@@ -144,9 +144,6 @@ Building next-gen infrastructure combining LLMs with blockchain:
 
 ## 📈 GitHub Analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PillarDevelopment&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-
 ### 🏆 Achievements Unlocked
 
 <img src="https://github-profile-trophy.vercel.app/?username=PillarDevelopment&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
