@@ -137,34 +137,11 @@ class VolodymyrSakhanda:
 
 ### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/volodymyr-sakhanda-a8625737/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:webfaba@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://holiverse.ai">
-  <img src="https://img.shields.io/badge/Portfolio-TechCatalyst-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/volodymyr-sakhanda-a8625737/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://t.me/sakhandav"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="mailto:webfaba@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
 
 </div>
 
----
-
-<div align="center">
-
-### 🌟 Recent Highlights
-
-<!-- Recent Activity -->
-🔨 Currently building: **AI-powered DeFi infrastructure**  
-📚 Learning: **Zero-Knowledge ML** and **Quantum-resistant cryptography**  
-🎯 2025 Goal: **Launch 10 AI-native Web3 tools**  
-💭 Ask me about: **Scaling blockchain systems**, **DeFi security**, **Team leadership**
-
-<img src="https://komarev.com/ghpvc/?username=PillarDevelopment&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-**"Building the future of Web3, one block at a time"** 🚀
-
-</div>
