@@ -2,7 +2,7 @@
   
 # 👨‍💻 Volodymyr Sakhanda
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Chief+Technology+Officer;Web3+%26+AI+Pioneer;12%2B+Years+Building+the+Future;$2B%2B+TVL+Secured" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Chief+Technology+Officer;Web3+%26+AI+Pioneer;15%2B+Years+Building+the+Future;$2B%2B+TVL+Secured" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://techcatalyst.xyz"><img src="https://img.shields.io/badge/🚀_TechCatalyst-Founder-FF6B6B?style=for-the-badge" alt="TechCatalyst"></a>
