@@ -5,10 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Chief+Technology+Officer;Web3+%26+AI+Pioneer;15%2B+Years+Building+the+Future;$2B%2B+TVL+Secured" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://techcatalyst.xyz"><img src="https://img.shields.io/badge/🚀_TechCatalyst-Founder-FF6B6B?style=for-the-badge" alt="TechCatalyst"></a>
-  <a href="https://linkedin.com/in/borisov-ivan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://t.me/techcatalyst_vc"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
-  <a href="mailto:2622610@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://holiverse.ai"><img src="https://img.shields.io/badge/🚀_TechCatalyst-Founder-FF6B6B?style=for-the-badge" alt="TechCatalyst"></a>
+  <a href="https://www.linkedin.com/in/volodymyr-sakhanda-a8625737/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://t.me/sakhandav"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="mailto:webfaba@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
