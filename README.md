@@ -170,7 +170,6 @@ Building next-gen infrastructure combining LLMs with blockchain:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PillarDevelopment&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PillarDevelopment&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 ### 🏆 Achievements Unlocked
 
@@ -197,16 +196,13 @@ Building next-gen infrastructure combining LLMs with blockchain:
 
 ### 📫 Connect With Me
 
-<a href="https://linkedin.com/in/borisov-ivan">
+<a href="https://www.linkedin.com/in/volodymyr-sakhanda-a8625737/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/techcatalyst_vc">
-  <img src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:2622610@gmail.com">
+<a href="mailto:webfaba@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://techcatalyst.xyz">
+<a href="https://holiverse.ai">
   <img src="https://img.shields.io/badge/Portfolio-TechCatalyst-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
