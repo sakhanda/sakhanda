@@ -111,30 +111,6 @@ class VolodymyrSakhanda:
 
 <div align="center">
 
-## 📊 Impact Metrics
-
-<img src="https://user-images.githubusercontent.com/74038190/216656000-cc96c8a0-f7d9-4309-91d4-5d50b3f5e604.gif" width="400">
-
-</div>
-
-```mermaid
-graph LR
-    A[15+ Years Experience] --> B[$2B+ TVL Secured]
-    B --> C[100K+ TPS Systems]
-    C --> D[50+ DeFi Audits]
-    D --> E[Zero Security Incidents]
-    E --> F[100+ Engineers Managed]
-    
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:2px
-    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px
-    style C fill:#45B7D1,stroke:#fff,stroke-width:2px
-    style D fill:#96CEB4,stroke:#fff,stroke-width:2px
-    style E fill:#FECA57,stroke:#fff,stroke-width:2px
-    style F fill:#9B59B6,stroke:#fff,stroke-width:2px
-```
-
-<div align="center">
-
 ## 🚀 Current Initiatives
 
 </div>
