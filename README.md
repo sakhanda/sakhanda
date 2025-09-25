@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Ivan Borisov
+# 👨‍💻 Volodymyr Sakhanda
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Chief+Technology+Officer;Web3+%26+AI+Pioneer;12%2B+Years+Building+the+Future;$2B%2B+TVL+Secured" alt="Typing SVG" />
 
@@ -56,11 +56,8 @@ class IvanBorisov:
 
 | 🏢 Company | 💡 Role | 🎯 Key Achievement | 📅 Period |
 |------------|---------|-------------------|-----------|
-| **TechCatalyst Ventures** | Founder & Managing Partner | Raised $5M, launched 3 AI-Web3 products | 2024-Present |
-| **BTC-Alpha** | CTO / AI Innovation Leader | Scaled to $50M daily volume, 99.99% uptime | 2023-2025 |
-| **Locus Finance** | CTO / DeFi Architect | Built platform from 0 to $20M TVL | 2023-2025 |
-| **3commas.io** | Blockchain Architect | Handled $1B+ monthly volume | 2021-2023 |
-| **MixBytes** | Head of Audits | Secured $2B+ in DeFi protocols | 2020-2021 |
+| **Holiverse** | CTO | Raised $5M, launched 3 AI-Web3 products | 2022-Present |
+
 
 <div align="center">
   
