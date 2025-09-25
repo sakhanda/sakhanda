@@ -56,7 +56,9 @@ class VolodymyrSakhanda:
 
 | 🏢 Company | 💡 Role | 🎯 Key Achievement | 📅 Period |
 |------------|---------|-------------------|-----------|
-| **Holiverse** | CTO | Raised $5M, launched 3 AI-Web3 products | 2022-Present |
+| **Holiverse** | CTO | Raised $1.4B, launched 3 Web3 products | 2022-Present |
+| **Amazing Window Fashions** | CTO | Project launch and support | 2021-2022 |
+| **WEB Researche & Development** | CTO | Project and team development | 2013-2021 |
 
 
 <div align="center">
