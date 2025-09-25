@@ -17,7 +17,7 @@
 
 ## 🌟 About Me
 
-I'm a **hands-on CTO** who still writes code while leading teams of 20+ engineers. Currently building the future of Web3 at [Holiverse Fze LLC](https://holiverse.ai), where we're pioneering **AI-native blockchain development**.
+I'm a **hands-on fractional CTO** who still writes code while leading teams of 30+ engineers. Currently building the future of Web3 at [Holiverse Fze LLC](https://holiverse.ai), where we're pioneering **AI-native blockchain development**.
 
 ```python
 class VolodymyrSakhanda:
