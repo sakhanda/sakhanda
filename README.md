@@ -22,7 +22,7 @@ I'm a **hands-on fractional CTO** who still writes code while leading teams of 3
 class VolodymyrSakhanda:
     def __init__(self):
         self.role = "Chief Technology Officer"
-        self.company = "Holiverse Fze LLC"
+        self.company = "Sakhanda Co LTD"
         self.location = "Sofia, Bulgaria"
         self.experience_years = 15++
         self.code_daily = True
