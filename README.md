@@ -51,7 +51,7 @@ class VolodymyrSakhanda:
 | 🏢 Company | 💡 Role | 🎯 Focus | 📅 Period |
 |------------|---------|----------|-----------|
 | **SAKHANDA CO LTD** (Sofia) | Founder & CTO | AI-driven software development, Contenter | 2025 – Present |
-| **Holiverse** (Dubai) | CTO | Web2/Web3 platform built from the ground up as employee #3; scaled to withstand large-scale DDoS attacks | 2022 – Present |
+| **Holiverse** (Dubai) | CTO | Web2/Web3 platform built from the ground up as employee #3; scaled to withstand large-scale DDoS attacks | 2022 – Nov 2025 |
 | **Amazing Window Fashions** | CTO | Product launch and support | 2021 – 2022 |
 | **WEB Research & Development** | CTO | Project and team development | 2013 – 2021 |
 
@@ -113,10 +113,6 @@ class VolodymyrSakhanda:
 <a href="https://qrtor.net/"><img src="https://img.shields.io/badge/QRtor-QR_Platform-45B7D1?style=for-the-badge" /></a>
 <a href="https://wire.sakhanda.co/en/"><img src="https://img.shields.io/badge/Sakhanda_Wire-News-4ECDC4?style=for-the-badge" /></a>
 <a href="https://gospeller.org/en"><img src="https://img.shields.io/badge/Gospeller-Web-9B59B6?style=for-the-badge" /></a>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakhanda&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
