@@ -61,7 +61,7 @@ class VolodymyrSakhanda:
 
 ## 🛠️ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=go,python,php,laravel,js,ts,nodejs,react,vue,postgres,redis,mongodb,docker,kubernetes,aws,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,python,php,laravel,js,ts,nodejs,react,vue,postgres,redis,mongodb,docker,kubernetes,aws" />
 
 ### 🔥 Expertise Matrix
 
